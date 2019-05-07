@@ -1,10 +1,10 @@
 {
-  "name": "@quasar/quasar-app-extension-icon-factory",
+  "name": "informatious/quasar-app-extension-icon-factory",
   "version": "1.0.0-beta.11",
   "description": "A Quasar CLI Extension",
   "license": "MIT",
   "author": "Daniel Thompson-Yvetot <35242872+nothingismagick@users.noreply.github.com>",
-  "repository": "git@github.com:quasarframework/app-extension-icon-factory.git",
+  "repository": "git@github.com:informatious/app-extension-icon-factory.git",
   "main": "src/index.js",
   "bin": {
     "iconfactory": "./bin/cli.js"
